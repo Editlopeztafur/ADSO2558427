@@ -9,3 +9,6 @@ Información Basica
 | **Celular** | 3144061466|
 | **Email** | lopezedo54@gmail.com |
 | **GitHub** | https://github.com/editlopeztafur|
+
+! [ejercicio](ejercicios.md)
+! [ejercicio2](ejercicios2.md)
